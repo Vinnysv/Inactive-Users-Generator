@@ -1,5 +1,4 @@
 # Inactive-Users-Generator
-# PowerShell Script to Sort Users by Inactivity
 
 This PowerShell script sorts users based on their last login date across multiple services (Teams, SharePoint, OneDrive, and Exchange) by analyzing a given input spreadsheet. The script will output an Excel file with users who have not logged in to any of the services since the specified date.
 
