@@ -15,7 +15,7 @@ This PowerShell script sorts users based on their last login date across multipl
 
 ```powershell
 Install-Module ImportExcel
-```
+```powershell
 
 ##Usage
 1. Save the script to a local directory on your computer.
